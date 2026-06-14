@@ -1,0 +1,11 @@
+# 1. Ignore everything in the directory
+/*
+
+# 2. Un-ignore the specific directories and files you want to keep
+!/images/
+!/index.html
+!/styles.css
+
+# 3. (Highly Recommended) Un-ignore the .gitignore file itself 
+# so you can track your ignore rules in version control!
+!/.gitignore
