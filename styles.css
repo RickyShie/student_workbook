@@ -114,7 +114,11 @@ h2 {
 .think-section ol {
     margin-left: 5mm;
     font-size: 12pt;
-    line-height: 2.2;
+    line-height: 1.5;
+}
+
+.think-section ol li {
+    margin-bottom: 25mm;
 }
 
 .pray-section {
